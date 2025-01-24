@@ -20,7 +20,7 @@ My goal is to become a professional developer and create high-quality software p
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81-%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80%E2%80%99%D1%94%D0%B2-767645286/">
+  <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80%E2%80%99%D1%94%D0%B2-767645286/">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="48"/>
   </a>
   <a href="mailto:maxgrigoriev99@gmail.com">
