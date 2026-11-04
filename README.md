@@ -2,7 +2,9 @@
 
 I'm **Maxim** from Ukraine 🇺🇦.
 
-Over the past year, I've been learning **Go** development. During this time, I’ve gained experience with the following tools and technologies:
+Backend Developer with hands-on experience in **Go**, working in cross-functional teams to build and extend game engines and service infrastructure for slot games. Skilled in designing **REST APIs** and **gRPC** for reliable inter-service communication, as well as integrating games with external game providers through partner APIs and protocols.
+
+Here are the tools and technologies I work with:
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
