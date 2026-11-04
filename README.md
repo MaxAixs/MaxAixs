@@ -13,7 +13,7 @@ Here are the tools and technologies I work with:
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/api-settings.png" alt="API" width="48"/>
-  <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="Codex" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Agents" width="48"/>
 </p>
