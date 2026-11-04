@@ -15,8 +15,6 @@ Here are the tools and technologies I work with:
   <img src="https://img.icons8.com/ios-filled/50/ffffff/api-settings.png" alt="API" width="48"/>
 </p>
 
-My goal is to become a professional developer and create high-quality software products that bring value to people.
-
 ---
 
 ## 📫 Contact
