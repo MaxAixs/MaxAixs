@@ -7,7 +7,7 @@ Over the past year, I've been learning **Go** development. During this time, Iâ€
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48"/>
-  <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/api-settings.png" alt="API" width="48"/>
